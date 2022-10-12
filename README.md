@@ -24,4 +24,12 @@ simple-server.eba-yhud2t3y.us-west-2.elasticbeanstalk.com
 
 ## Docs  
 
-First link I deployed through the cli. Second was deployed through the GUI on the AWS website. Overall the process was very simple for both.
+First link I deployed through the cli. Second was deployed through the GUI on the AWS website. Overall the process was very simple for both.  
+
+## Lab 17  
+
+## Docs  
+
+Wrote the Lambda function to add the the name of the image and the size as an object to the array. I setup permissions for the function as well as myself. I couldn't get the data.json to update. I think it is something to do with my bucket policy however I couldn't quite get it tonight.
+
+https://lab17bucket.s3.us-west-2.amazonaws.com/data.json
